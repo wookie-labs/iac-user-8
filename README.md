@@ -1,2 +1,1 @@
-# iac_user_template
-Template for IaC workshop users
+## Workspace repo for iac-user-8
